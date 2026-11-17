@@ -1,0 +1,40 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Others
+*.cache
+*.pdb
+*.dbmdl
+*.bak
+*.tmp
+*.swp
+
+# Resharper
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
