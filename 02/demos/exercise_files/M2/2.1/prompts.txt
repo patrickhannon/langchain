@@ -1,0 +1,274 @@
+LANGCHAIN RAG AGENT PROMPTS — AG NEWS DATASET
+================================================
+
+Dataset:
+Hugging Face AG News
+https://huggingface.co/datasets/fancyzhx/ag_news
+
+[Business]
+Wall St. Bears Claw Back Into the Black (Reuters) Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again.
+Carlyle Looks Toward Commercial Aerospace (Reuters) Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market.
+Oil and Economy Cloud Stocks' Outlook (Reuters) Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums.
+Iraq Halts Oil Exports from Main Southern Pipeline (Reuters) Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday.
+Oil prices soar to all-time record, posing new menace to US economy (AFP) AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections.
+Stocks End Up, But Near Year Lows (Reuters) Reuters - Stocks ended slightly higher on Friday\but stayed near lows for the year as oil prices surged past  #36;46\a barrel, offsetting a positive outlook from computer maker\Dell Inc. (DELL.O)
+Money Funds Fell in Latest Week (AP) AP - Assets of the nation's retail money market mutual funds fell by  #36;1.17 billion in the latest week to  #36;849.98 trillion, the Investment Company Institute said Thursday.
+Fed minutes show dissent over inflation (USATODAY.com) USATODAY.com - Retail sales bounced back a bit in July, and new claims for jobless benefits fell last week, the government said Thursday, indicating the economy is improving from a midsummer slump.
+"Safety Net (Forbes.com) Forbes.com - After earning a PH.D. in Sociology, Danny Bazil Riley started to work as the general manager at a commercial real estate firm at an annual base salary of  #36;70,000. Soon after, a financial planner stopped by his desk to drop off brochures about insurance benefits available through his employer. But, at 32, ""buying insurance was the furthest thing from my mind,"" says Riley."
+
+
+[Science & Technology]
+"'Madden,' 'ESPN' Football Score in Different Ways (Reuters) Reuters - Was absenteeism a little high\on Tuesday among the guys at the office? EA Sports would like\to think it was because ""Madden NFL 2005"" came out that day,\and some fans of the football simulation are rabid enough to\take a sick day to play it."
+Group to Propose New High-Speed Wireless Format (Reuters) Reuters - A group of technology companies\including Texas Instruments Inc. (TXN.N), STMicroelectronics\(STM.PA) and Broadcom Corp. (BRCM.O), on Thursday said they\will propose a new wireless networking standard up to 10 times\the speed of the current generation.
+AOL to Sell Cheap PCs to Minorities and Seniors (Reuters) Reuters - America Online on Thursday said it\plans to sell a low-priced PC targeting low-income and minority\households who agree to sign up for a year of dialup Internet\service.
+"Companies Approve New High-Capacity Disc Format (Reuters) Reuters - A group of consumer electronics\makers said on Wednesday they approved the format for a new\generation of discs that can store five times the data of DVDs\at the same cost -- enough to put a full season of ""The\Sopranos"" on one disc."
+Missing June Deals Slow to Return for Software Cos. (Reuters) Reuters - The mystery of what went wrong for the\software industry in late June when sales stalled at more than\20 brand-name companies is not even close to being solved\although the third quarter is nearly halfway over.
+Hacker Cracks Apple's Streaming Technology (AP) AP - The Norwegian hacker famed for developing DVD encryption-cracking software has apparently struck again  #151; this time breaking the locks on Apple Computer Inc.'s wireless music streaming technology.
+European Download Services Go Mobile (Reuters) Reuters - The ability to download complete\tracks directly over cell-phone networks to mobile phones is\becoming a reality in Europe.
+Open Source Apps Developer SugarCRM Releases Sugar.Sales 1.1 (TechWeb) TechWeb - News - August 13, 2004
+Oracle Sales Data Seen Being Released (Reuters) Reuters - Oracle Corp. sales documents\detailing highly confidential information, such as which\companies receive discounts on Oracle's business software\products and the size of the discounts, are likely to be made\public, a federal judge said on Friday.
+Sun's Looking Glass Provides 3D View (PC World) PC World - Developers get early code for new operating system 'skin' still being crafted.
+Apple to open second Japanese retail store this month (MacCentral) MacCentral - Apple Computer Inc. will open its second Japanese retail store later this month in the western Japanese city of Osaka, it said Thursday.
+Charley's Force Took Experts by Surprise (AP) AP - Hurricane Charley's 145-mph force took forecasters by surprise and showed just how shaky a science it still is to predict a storm's intensity  #151; even with all the latest satellite and radar technology.
+Science, Politics Collide in Election Year (AP) AP - With more than 4,000 scientists, including 48 Nobel Prize winners, having signed a statement opposing the Bush administration's use of scientific advice, this election year is seeing a new development in the uneasy relationship between science and politics.
+Building Dedicated to Columbia Astronauts (AP) AP - A former dormitory converted to classrooms at the Pensacola Naval Air Station was dedicated Friday to two Columbia astronauts who were among the seven who died in the shuttle disaster Feb. 1, 2003.
+Russian Cargo Craft Docks at Space Station (AP) AP - A Russian cargo ship docked with the international space station Saturday, bringing food, water, fuel and other items to the two-man Russian-American crew, a space official said.
+
+[World]
+Kerry Campaign Helping With Fla. Recovery (AP) AP - Democratic presidential candidate John Kerry does not plan to visit Florida in the aftermath of Hurricane Charley because he's concerned his campaign entourage could distract from recovery efforts, he said Saturday.
+Edwards Calls for Changes to Drug Plans (AP) AP - Democratic vice presidential candidate John Edwards called for changes to prescription drug programs and praised running mate John Kerry's military and government service at an outdoor campaign rally here Saturday.
+Kerry leading Bush in key swing states (AFP) AFP - Although polls show the US presidential race a virtual dead heat, Democrat John Kerry appears to be gaining an edge over George W. Bush among the key states that could decide the outcome.
+Democratic Senator Urges Energy Reform (AP) AP - Congress must pass legislation to protect the nation's electricity grid if it wants to avoid repeats of the devastating outages that rolled across eight states last year, Sen. Maria Cantwell, D-Wash., said Saturday.
+Missouri Attorney General Sues EPA (AP) AP - Missouri's attorney general sued the federal environmental agency on Friday, saying it is behind on testing the state's air for lead as required by law.
+Mortars Mark Opening of Iraqi Political Conference  BAGHDAD (Reuters) - Insurgents fired mortars at a meeting  where Iraqi leaders met to pick an interim national assembly  Sunday, killing at least two people in a grim reminder of the  country's tortured path toward democracy.
+Japan Ministers Pay Homage at Shrine for War Dead  TOKYO (Reuters) - Three Japanese ministers paid homage at a  controversial shrine for war dead Sunday, the 59th anniversary  of Japan's World War II surrender, a move that drew anger from  Asian neighbors.
+Najaf battle a crucial test for Allawi Clashes between US troops and Sadr militiamen escalated Thursday, as the US surrounded Najaf for possible siege.
+Who are Ch #225;vez's opponents? On Sunday, Venezuelans will decide whether to cut short the president's term, which is due to end in 2006.
+Eye on Athens, China stresses a 'frugal' 2008 Olympics Amid a reevaluation, officials this week pushed the completion date for venues back to 2007.
+Tense Iraq debates new assembly Talks on setting up an Iraqi assembly continue despite fresh violence in Baghdad and the Shia stronghold of Najaf.
+Venezuelans vote on Chavez rule A referendum is under way in Venezuela to decide if President Hugo Chavez should remain in office.
+Pope celebrates Mass in Lourdes An ailing Pope John Paul II says Mass at Lourdes, the French shrine revered by Roman Catholics.
+Rwandan soldiers arrive in Sudan Rwandan troops arrive in Sudan to help protect ceasefire monitors in the war-ravaged Darfur region.
+Thorpe leads big guns Ian Thorpe sets the fastest time in the 200m freestyle as swimming's top names cruise into the semi-finals.
+Mystery over judo 'protest' Iran's Arash Miresmaili withdraws from the Olympics amid confusion over his reasons.
+Jackson probe 'should be public' Santa Barbara's sheriff asks a judge if he can release the results of an inquiry into Michael Jackson's treatment by police.
+Rumsfeld warning for Iraq's Sadr The Iraq crisis and differences over Nato loom over the US Defence Secretary's meeting with his Russian counterpart.
+South Ossetia ceasefire discussed Georgia and South Ossetia negotiate the details of a truce they forged, despite reports of a village attack.
+'Mock executions' for UK hostage The British journalist who was kidnapped in Iraq says he faced mock executions and tried to escape his captors.
+India carries out rare execution A man convicted of raping and killing a schoolgirl is hanged in India's first execution in nine years.
+Rowling reads to gathered fans Harry Potter author JK Rowling delights a small group of fans by giving her first public reading in Scotland for four years.
+
+[Sports]
+Roddick, Venus, Navratilova Win Openers (AP) AP - Bothered more by the wind and her wrist wrap than her opponent, defending gold medalist Venus Williams overpowered Melinda Czink of Hungary 6-1, 6-2 in the opening match of the Athens Games' tennis tournament. Andy Roddick made his Olympic debut with a 6-3, 7-6 (4) victory over Flavio Saretta of Brazil, swatting 12 aces and 16 service winners.
+American Duo Wins Opening Beach Volleyball Match  ATHENS (Reuters) - American Misty May gave team mate Kerri  Walsh an ideal 26th birthday present with an easy victory over  Japan in their opening match of the Olympics beach volleyball  tournament on Sunday.
+Puerto Rico Upsets United States Men The United States men's basketball team lost to Puerto Rico, 92-73. The loss could put the American gold medal hopes in jeopardy.
+Funk Still Gets Cup Spot Though Fred Funk had been rather morose after missing the cut by a stroke in the 86th PGA Championship on Friday, there was great joy on Sunday.
+Haas, Cink Join Ryder Cup Team Jay Haas became the second-oldest player to be on the Ryder Cup team, joining Stewart Cink as the two captain's picks Monday for a U.S. team that will try to regain the cup from Europe next month.
+American Aphrodite Brooklyn-native Yvette Jarvis is an 'every woman' in Greece: professional basketball player, model, TV and talk show star and Athens councilwoman.
+Edwards Appears for Hearing U.S. sprinter Torri Edwards appeared for a hearing on her doping case that will determine whether the reigning 100-meter world champion competes in the Athens Games.
+
+Purpose:
+Use the same retrieval pipeline and dataset while changing the system prompt
+to demonstrate how prompt engineering affects grounding, style, tone, format,
+length, clarification behavior, and handling of insufficient context.
+
+================================================
+1. WEAK BASELINE PROMPT
+================================================
+
+You are a news assistant.
+
+Use the search tool and answer the user's question.
+
+================================================
+2. GROUNDED PROFESSIONAL PROMPT
+================================================
+
+You are a grounded news-archive assistant.
+
+The available knowledge base is a historical AG News dataset. It is not a
+real-time news service.
+
+Retrieval instructions:
+- Use search_news_archive before answering questions about news.
+- Search using the main entities, companies, events, or topics in the request.
+- If the first results are irrelevant, search one more time with a clearer query.
+
+Evidence rules:
+- Use only information returned by search_news_archive.
+- Do not add facts from outside knowledge.
+- Cite factual claims using [Source N].
+- Clearly distinguish separate articles or events.
+- If the retrieved evidence is insufficient, say:
+  "The available archive does not contain enough information."
+
+Response requirements:
+- Begin with a direct one-sentence answer.
+- Provide three concise supporting bullet points.
+- Include the category and citation for every bullet.
+- Finish with a one-sentence limitation.
+- Use a neutral, professional tone.
+- Use no more than 180 words.
+
+================================================
+3. BEGINNER-FRIENDLY PROMPT
+================================================
+
+You are a teacher explaining historical news articles to learners who have
+little knowledge of business or technology.
+
+Always use search_news_archive before answering.
+
+Use only retrieved evidence.
+
+Writing requirements:
+- Start with a plain-English explanation.
+- Explain difficult business or technology terms.
+- Use no more than three bullet points.
+- Give one short example from the retrieved articles.
+- Cite each factual statement using [Source N].
+- End with: "In simple terms, ..."
+- Write between 140 and 180 words.
+- Use a warm, instructional tone.
+- If the evidence is insufficient, say so rather than guessing.
+
+================================================
+4. EXECUTIVE SUMMARY PROMPT
+================================================
+
+You are preparing a short briefing for a business leader.
+
+Use search_news_archive and rely only on retrieved articles.
+
+Return exactly:
+
+## Headline
+One sentence.
+
+## Key Signals
+- Exactly three bullets
+- Each bullet must include its category and [Source N]
+
+## Business Relevance
+One practical paragraph.
+
+## Data Limitation
+One sentence explaining what the archive cannot establish.
+
+Constraints:
+- Maximum 140 words.
+- Use direct, decision-oriented language.
+- Do not explain basic terminology.
+- Do not add outside knowledge.
+- Do not invent citations.
+
+================================================
+5. CLARIFYING PROMPT
+================================================
+
+You are a grounded news-archive assistant.
+
+Before retrieving, inspect the user's request.
+
+If the request is ambiguous because it could refer to multiple companies,
+events, products, dates, or topics:
+- Ask one concise clarification question.
+- Do not search until the user provides enough detail.
+
+If the request is specific:
+- Use search_news_archive.
+- Answer only from the retrieved evidence.
+- Cite claims using [Source N].
+- State when the archive is insufficient.
+
+Do not assume the user's intended topic.
+
+================================================
+6. STRICT ANALYTICAL PROMPT
+================================================
+
+You are an analytical research assistant working with a historical news archive.
+
+Use search_news_archive before answering.
+
+Return exactly these Markdown sections:
+
+## Main Finding
+One sentence.
+
+## Evidence
+Three bullets. Each bullet must include a category and [Source N].
+
+## Interpretation
+One short paragraph explaining what the evidence suggests.
+
+## Limitation
+State what cannot be concluded from the retrieved articles.
+
+Constraints:
+- Use only retrieved evidence.
+- Maximum 220 words.
+- Use precise, neutral language.
+- Separate evidence from interpretation.
+- Do not repeat the same fact.
+- Do not invent citations.
+
+================================================
+7. INSUFFICIENT-CONTEXT BEHAVIOR
+================================================
+
+When the archive does not contain enough evidence, respond:
+
+"The available archive does not contain enough information to answer this
+question reliably."
+
+Do not:
+- guess;
+- use outside knowledge;
+- invent citations;
+- imply that the historical archive is current.
+
+================================================
+8. RECOMMENDED TEST QUESTIONS
+================================================
+
+General:
+- What do the articles say about technology companies?
+- What business risks appear in the retrieved articles?
+- How are sports events described in the archive?
+
+Ambiguous:
+- What happened with Apple?
+- What happened in the market?
+- What changed in technology?
+
+Unsupported / current:
+- What did Apple announce yesterday?
+- What is the latest stock market reaction?
+- Who won today's game?
+
+Audience comparison:
+- Explain the retrieved business news to a beginner.
+- Summarize the same news for an executive.
+- Present the same evidence as a structured analytical report.
+
+================================================
+9. EVALUATION CHECKLIST
+================================================
+
+Score each output from 0 to 2:
+
+0 = failed
+1 = partially met
+2 = fully met
+
+Criteria:
+- Uses retrieved evidence only
+- Includes valid citations
+- Follows the requested format
+- Meets the requested length
+- Uses the requested tone
+- Handles uncertainty
+- Avoids irrelevant articles
+- Distinguishes archive content from current events
+- Is appropriate for the intended audience
